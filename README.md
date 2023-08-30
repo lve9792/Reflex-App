@@ -5,9 +5,6 @@ Links: https://react-bootstrap.netlify.app/docs/components/accordion
 
 
 To-Do: 
-
-    PR
-
     favicon
     navBar
         pages
