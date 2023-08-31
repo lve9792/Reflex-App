@@ -7,9 +7,6 @@ Links:
 
 
 To-Do: 
-
-    PR
-
     favicon
     navBar
         pages
@@ -19,9 +16,12 @@ To-Do:
     create acc
         DB for accounts
         acc page
+<<<<<<< HEAD
 
     contact me
 
     msg board
 
     local storage
+=======
+>>>>>>> 1a153443093c6bc892975f077a7a911ae520bf97
