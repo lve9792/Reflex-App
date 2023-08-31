@@ -1,0 +1,19 @@
+
+
+
+.btn-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.bottom-right {
+    position: fixed !important;
+    bottom: 0 !important;
+    right: 0 !important;
+    margin: 2rem;
+}
+
+.send-message-modal{
+    display: flex;
+    flex-direction: column;
+}
