@@ -1,0 +1,9 @@
+@import '../../App.css';
+
+.navbar {
+    background-color: var(--secondary-color);
+}
+
+.navbar-brand{
+    color: var(--default-font-color) !important;
+}
